@@ -1,0 +1,58 @@
+{
+  "uid" : "d9e0a2c7231b868",
+  "name" : "should allow access with correct creds",
+  "fullName" : "PaySchools Mobile.should allow access with correct creds",
+  "historyId" : "e8b9f757dc2f6115260158ae8f8230eb",
+  "time" : {
+    "start" : 1626704867445,
+    "stop" : 1626704883454,
+    "duration" : 16009
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "PaySchools Mobile"
+  }, {
+    "name" : "testClass",
+    "value" : "PaySchools Mobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "should allow access with correct creds"
+  }, {
+    "name" : "package",
+    "value" : "PaySchools Mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "ce051715114c110201-7.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d9e0a2c7231b868.json",
+  "parameterValues" : [ "ce051715114c110201-7.0" ]
+}

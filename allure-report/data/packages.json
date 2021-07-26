@@ -1,0 +1,61 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "PaySchools Mobile",
+    "children" : [ {
+      "name" : "should allow access with correct creds",
+      "uid" : "d9e0a2c7231b868",
+      "parentUid" : "f9503a13555904b87ae9af0bbc8fc0a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626704867445,
+        "stop" : 1626704883454,
+        "duration" : 16009
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ce051715114c110201-7.0" ]
+    }, {
+      "name" : "should allow access with correct creds",
+      "uid" : "33b5e206cd044375",
+      "parentUid" : "f9503a13555904b87ae9af0bbc8fc0a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626705099051,
+        "stop" : 1626705116343,
+        "duration" : 17292
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ce031713742a601d0c-7.0" ]
+    }, {
+      "name" : "should allow access with correct creds",
+      "uid" : "9e94cb46ded1d390",
+      "parentUid" : "f9503a13555904b87ae9af0bbc8fc0a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626705247530,
+        "stop" : 1626705263102,
+        "duration" : 15572
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ce0417140971bc5b0c-7.0" ]
+    }, {
+      "name" : "should allow access with correct creds",
+      "uid" : "98e588b4628bc469",
+      "parentUid" : "f9503a13555904b87ae9af0bbc8fc0a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626769825203,
+        "stop" : 1626769841534,
+        "duration" : 16331
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ce0517150c0ab4bd0d-7.0" ]
+    } ],
+    "uid" : "f9503a13555904b87ae9af0bbc8fc0a6"
+  } ]
+}
